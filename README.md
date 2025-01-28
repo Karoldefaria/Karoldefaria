@@ -1,16 +1,64 @@
-## Hi there 👋
+### 👩🏼‍💻 Karoliny de Faria
 
-<!--
-**Karoldefaria/Karoldefaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciências de Dados`**
 
-Here are some ideas to get you started:
+Me chamo Karoliny, sou estudante da área de ciências de dados e voltando para a área de tecnologia após alguns anos. 
+Seja bem vindo (a) ao meu perfil, aqui irei postar meus exercícios feitos ao longo dessa jornada de análise. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills (Learning)
+
+<p>
+    <img 
+    align="left" 
+    alt="R"
+    title="R" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" 
+/>
+  <img 
+    align="left" 
+    alt="PYTHON"
+    title="PYTHON" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+/>
+
+  <img 
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+/>
+  
+</p>
+
+</br>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Karoldefaria&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karoldefaria&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
