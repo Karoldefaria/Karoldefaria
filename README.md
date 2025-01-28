@@ -3,6 +3,7 @@
 **`Estudante de Ciências de Dados`**
 
 Me chamo Karoliny, sou estudante da área de ciências de dados e voltando para a área de tecnologia após alguns anos. 
+</br>
 Seja bem vindo (a) ao meu perfil, aqui irei postar meus exercícios feitos ao longo dessa jornada de análise. 
 
 ---
