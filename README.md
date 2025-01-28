@@ -14,16 +14,16 @@ Seja bem vindo (a) ao meu perfil, aqui irei postar meus exercícios feitos ao lo
     align="left" 
     alt="R"
     title="R" 
-    width="50px" 
-    style="padding-right: 20px;" 
+    width="100px" 
+    style="padding-right: 50px;" 
     src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" 
 />
   <img 
     align="left" 
     alt="PYTHON"
     title="PYTHON" 
-    width="50px" 
-    style="padding-right: 20px;" 
+    width="100px" 
+    style="padding-right: 50px;" 
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
 />
 
@@ -31,8 +31,8 @@ Seja bem vindo (a) ao meu perfil, aqui irei postar meus exercícios feitos ao lo
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="50px" 
-    style="padding-right: 20px;" 
+    width="100px" 
+    style="padding-right: 50px;" 
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
 />
   
